@@ -48,3 +48,5 @@ const details = document.getElementsByClassName("details")[0]; // Get the first 
 details.appendChild(container); // Append the container with generated content
 
 console.log(data); // This is no longer needed for displaying data
+console.log(data); // This is no longer needed for displaying data
+console.log(data); // This is no longer needed for displaying data
